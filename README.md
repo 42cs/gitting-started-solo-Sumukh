@@ -1,4 +1,4 @@
-First thing's first, run:
+First thing's first you should run:
 
     $ man git
 
